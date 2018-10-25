@@ -1,7 +1,7 @@
 # Manipulación de datos a través de lenguaje Python
 
 * El script está en el notebook de Jupyter
-	* py2_version/Ejemplo-Pandas.ipynb (para la versión 2 de python) - remendado
+	* py2_version/Ejemplo-Pandas.ipynb (para la versión 2 de python) - (recomendado)
 	* py3_version/Ejemplo-Pandas.ipynb (para la versión 3 de python)
 
 * Para ejecutar el script del repositorio se puede hacer uso de:
